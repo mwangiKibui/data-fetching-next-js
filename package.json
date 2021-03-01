@@ -1,0 +1,27 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@styled-system/theme-get": "^5.1.2",
+    "bootstrap-css-only": "^4.4.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "es6-promise": "^4.2.8",
+    "express": "^4.17.1",
+    "isomorphic-fetch": "^3.0.0",
+    "next": "10.0.7",
+    "nprogress": "^0.2.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-icons": "^4.2.0",
+    "reactstrap": "^8.9.0",
+    "styled-components": "^5.2.1",
+    "unsplash-js": "^7.0.4"
+  }
+}
